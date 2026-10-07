@@ -1,0 +1,3 @@
+# CPU installation for local development and smoke tests.
+-r requirements.txt
+torch==2.6.0
